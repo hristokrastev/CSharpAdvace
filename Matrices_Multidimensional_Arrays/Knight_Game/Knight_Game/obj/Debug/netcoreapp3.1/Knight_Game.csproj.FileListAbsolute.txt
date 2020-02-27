@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\bin\Debug\netcoreapp3.1\Knight_Game.exe
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\bin\Debug\netcoreapp3.1\Knight_Game.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\bin\Debug\netcoreapp3.1\Knight_Game.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\bin\Debug\netcoreapp3.1\Knight_Game.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\bin\Debug\netcoreapp3.1\Knight_Game.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\bin\Debug\netcoreapp3.1\Knight_Game.pdb
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\obj\Debug\netcoreapp3.1\Knight_Game.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\obj\Debug\netcoreapp3.1\Knight_Game.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\obj\Debug\netcoreapp3.1\Knight_Game.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\obj\Debug\netcoreapp3.1\Knight_Game.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Knight_Game\Knight_Game\obj\Debug\netcoreapp3.1\Knight_Game.pdb

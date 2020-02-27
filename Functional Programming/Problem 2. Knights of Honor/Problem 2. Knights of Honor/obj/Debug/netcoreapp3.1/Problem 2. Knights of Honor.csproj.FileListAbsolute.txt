@@ -1,0 +1,10 @@
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\bin\Debug\netcoreapp3.1\Problem 2. Knights of Honor.exe
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\bin\Debug\netcoreapp3.1\Problem 2. Knights of Honor.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\bin\Debug\netcoreapp3.1\Problem 2. Knights of Honor.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\bin\Debug\netcoreapp3.1\Problem 2. Knights of Honor.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\bin\Debug\netcoreapp3.1\Problem 2. Knights of Honor.dll
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\bin\Debug\netcoreapp3.1\Problem 2. Knights of Honor.pdb
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\obj\Debug\netcoreapp3.1\Problem 2. Knights of Honor.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\obj\Debug\netcoreapp3.1\Problem 2. Knights of Honor.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\obj\Debug\netcoreapp3.1\Problem 2. Knights of Honor.dll
+C:\SoftUni\C#Advanced_SoftUni\Functional Programming\Problem 2. Knights of Honor\Problem 2. Knights of Honor\obj\Debug\netcoreapp3.1\Problem 2. Knights of Honor.pdb

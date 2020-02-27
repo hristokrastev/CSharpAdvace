@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\bin\Debug\netcoreapp3.1\Stack_Queue_.exe
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\bin\Debug\netcoreapp3.1\Stack_Queue_.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\bin\Debug\netcoreapp3.1\Stack_Queue_.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\bin\Debug\netcoreapp3.1\Stack_Queue_.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\bin\Debug\netcoreapp3.1\Stack_Queue_.dll
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\bin\Debug\netcoreapp3.1\Stack_Queue_.pdb
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\obj\Debug\netcoreapp3.1\Stack_Queue_.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\obj\Debug\netcoreapp3.1\Stack_Queue_.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\obj\Debug\netcoreapp3.1\Stack_Queue_.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\obj\Debug\netcoreapp3.1\Stack_Queue_.dll
+C:\SoftUni\C#Advanced_SoftUni\Stack_Queue_Lection\Stack_Queue_\obj\Debug\netcoreapp3.1\Stack_Queue_.pdb

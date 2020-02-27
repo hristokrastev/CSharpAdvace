@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\bin\Debug\netcoreapp3.1\One.exe
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\bin\Debug\netcoreapp3.1\One.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\bin\Debug\netcoreapp3.1\One.dll
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\bin\Debug\netcoreapp3.1\One.pdb
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\obj\Debug\netcoreapp3.1\One.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\obj\Debug\netcoreapp3.1\One.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\obj\Debug\netcoreapp3.1\One.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\obj\Debug\netcoreapp3.1\One.dll
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\One\One\obj\Debug\netcoreapp3.1\One.pdb

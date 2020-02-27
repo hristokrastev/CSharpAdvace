@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csprojAssemblyReference.cache

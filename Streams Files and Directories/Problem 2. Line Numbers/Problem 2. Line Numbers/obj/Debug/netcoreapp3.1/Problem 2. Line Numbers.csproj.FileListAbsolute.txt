@@ -1,0 +1,12 @@
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.exe
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\text.txt
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.pdb
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 2. Line Numbers\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.pdb

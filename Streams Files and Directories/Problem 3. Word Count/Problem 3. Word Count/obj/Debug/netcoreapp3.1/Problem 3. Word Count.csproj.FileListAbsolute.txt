@@ -1,0 +1,13 @@
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\text.txt
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\words.txt
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\Problem 3. Word Count.exe
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\Problem 3. Word Count.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\Problem 3. Word Count.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\Problem 3. Word Count.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\Problem 3. Word Count.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\bin\Debug\netcoreapp3.1\Problem 3. Word Count.pdb
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\obj\Debug\netcoreapp3.1\Problem 3. Word Count.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\obj\Debug\netcoreapp3.1\Problem 3. Word Count.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\obj\Debug\netcoreapp3.1\Problem 3. Word Count.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\obj\Debug\netcoreapp3.1\Problem 3. Word Count.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 3. Word Count\Problem 3. Word Count\obj\Debug\netcoreapp3.1\Problem 3. Word Count.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\bin\Debug\netcoreapp3.1\Two.exe
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\bin\Debug\netcoreapp3.1\Two.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\bin\Debug\netcoreapp3.1\Two.dll
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\bin\Debug\netcoreapp3.1\Two.pdb
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\obj\Debug\netcoreapp3.1\Two.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\obj\Debug\netcoreapp3.1\Two.dll
+C:\SoftUni\C#Advanced_SoftUni\Exam\Two\Two\obj\Debug\netcoreapp3.1\Two.pdb

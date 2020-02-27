@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\SoftUni\C#Advanced_SoftUni\Exam\Guild\obj\Debug\netcoreapp3.0\Guild.pdb

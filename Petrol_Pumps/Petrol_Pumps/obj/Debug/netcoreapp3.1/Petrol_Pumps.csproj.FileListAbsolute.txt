@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\bin\Debug\netcoreapp3.1\Petrol_Pumps.exe
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\bin\Debug\netcoreapp3.1\Petrol_Pumps.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\bin\Debug\netcoreapp3.1\Petrol_Pumps.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\bin\Debug\netcoreapp3.1\Petrol_Pumps.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\bin\Debug\netcoreapp3.1\Petrol_Pumps.dll
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\bin\Debug\netcoreapp3.1\Petrol_Pumps.pdb
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\obj\Debug\netcoreapp3.1\Petrol_Pumps.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\obj\Debug\netcoreapp3.1\Petrol_Pumps.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\obj\Debug\netcoreapp3.1\Petrol_Pumps.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\obj\Debug\netcoreapp3.1\Petrol_Pumps.dll
+C:\SoftUni\C#Advanced_SoftUni\Petrol_Pumps\Petrol_Pumps\obj\Debug\netcoreapp3.1\Petrol_Pumps.pdb

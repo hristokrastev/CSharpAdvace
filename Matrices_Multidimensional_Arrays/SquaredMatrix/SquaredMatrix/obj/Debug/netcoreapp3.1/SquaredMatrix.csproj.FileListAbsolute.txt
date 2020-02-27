@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\bin\Debug\netcoreapp3.1\SquaredMatrix.exe
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\bin\Debug\netcoreapp3.1\SquaredMatrix.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\bin\Debug\netcoreapp3.1\SquaredMatrix.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\bin\Debug\netcoreapp3.1\SquaredMatrix.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\bin\Debug\netcoreapp3.1\SquaredMatrix.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\bin\Debug\netcoreapp3.1\SquaredMatrix.pdb
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\obj\Debug\netcoreapp3.1\SquaredMatrix.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\obj\Debug\netcoreapp3.1\SquaredMatrix.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\obj\Debug\netcoreapp3.1\SquaredMatrix.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\obj\Debug\netcoreapp3.1\SquaredMatrix.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\SquaredMatrix\SquaredMatrix\obj\Debug\netcoreapp3.1\SquaredMatrix.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Word Count", "Problem 3. Word Count\Problem 3. Word Count.csproj", "{9B2F5D48-CEED-40CD-8524-FC20DDF8AF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2F5D48-CEED-40CD-8524-FC20DDF8AF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2F5D48-CEED-40CD-8524-FC20DDF8AF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2F5D48-CEED-40CD-8524-FC20DDF8AF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2F5D48-CEED-40CD-8524-FC20DDF8AF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604FC690-4F8B-445F-A787-B7EB5F8FE43F}
+	EndGlobalSection
+EndGlobal

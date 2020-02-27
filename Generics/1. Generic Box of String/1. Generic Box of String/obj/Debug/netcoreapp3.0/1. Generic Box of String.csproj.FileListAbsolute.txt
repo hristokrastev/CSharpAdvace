@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\bin\Debug\netcoreapp3.0\1. Generic Box of String.exe
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\bin\Debug\netcoreapp3.0\1. Generic Box of String.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\bin\Debug\netcoreapp3.0\1. Generic Box of String.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\bin\Debug\netcoreapp3.0\1. Generic Box of String.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\bin\Debug\netcoreapp3.0\1. Generic Box of String.dll
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\bin\Debug\netcoreapp3.0\1. Generic Box of String.pdb
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\obj\Debug\netcoreapp3.0\1. Generic Box of String.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\obj\Debug\netcoreapp3.0\1. Generic Box of String.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\obj\Debug\netcoreapp3.0\1. Generic Box of String.dll
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\obj\Debug\netcoreapp3.0\1. Generic Box of String.pdb
+C:\SoftUni\C#Advanced_SoftUni\Generics\1. Generic Box of String\1. Generic Box of String\obj\Debug\netcoreapp3.0\1. Generic Box of String.csprojAssemblyReference.cache

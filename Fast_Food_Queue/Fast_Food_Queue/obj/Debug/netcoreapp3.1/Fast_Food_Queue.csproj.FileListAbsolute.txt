@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\bin\Debug\netcoreapp3.1\Fast_Food_Queue.exe
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\bin\Debug\netcoreapp3.1\Fast_Food_Queue.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\bin\Debug\netcoreapp3.1\Fast_Food_Queue.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\bin\Debug\netcoreapp3.1\Fast_Food_Queue.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\bin\Debug\netcoreapp3.1\Fast_Food_Queue.dll
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\bin\Debug\netcoreapp3.1\Fast_Food_Queue.pdb
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\obj\Debug\netcoreapp3.1\Fast_Food_Queue.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\obj\Debug\netcoreapp3.1\Fast_Food_Queue.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\obj\Debug\netcoreapp3.1\Fast_Food_Queue.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\obj\Debug\netcoreapp3.1\Fast_Food_Queue.dll
+C:\SoftUni\C#Advanced_SoftUni\Fast_Food_Queue\Fast_Food_Queue\obj\Debug\netcoreapp3.1\Fast_Food_Queue.pdb

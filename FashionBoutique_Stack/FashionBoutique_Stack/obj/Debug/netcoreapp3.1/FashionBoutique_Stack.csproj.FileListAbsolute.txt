@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\bin\Debug\netcoreapp3.1\FashionBoutique_Stack.exe
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\bin\Debug\netcoreapp3.1\FashionBoutique_Stack.deps.json
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\bin\Debug\netcoreapp3.1\FashionBoutique_Stack.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\bin\Debug\netcoreapp3.1\FashionBoutique_Stack.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\bin\Debug\netcoreapp3.1\FashionBoutique_Stack.dll
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\bin\Debug\netcoreapp3.1\FashionBoutique_Stack.pdb
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\obj\Debug\netcoreapp3.1\FashionBoutique_Stack.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\obj\Debug\netcoreapp3.1\FashionBoutique_Stack.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\obj\Debug\netcoreapp3.1\FashionBoutique_Stack.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\obj\Debug\netcoreapp3.1\FashionBoutique_Stack.dll
+C:\SoftUni\C#Advanced_SoftUni\FashionBoutique_Stack\FashionBoutique_Stack\obj\Debug\netcoreapp3.1\FashionBoutique_Stack.pdb

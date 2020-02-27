@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\bin\Debug\netcoreapp3.1\Problem 4. Copy Binary File.exe
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\bin\Debug\netcoreapp3.1\Problem 4. Copy Binary File.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\bin\Debug\netcoreapp3.1\Problem 4. Copy Binary File.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\bin\Debug\netcoreapp3.1\Problem 4. Copy Binary File.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\bin\Debug\netcoreapp3.1\Problem 4. Copy Binary File.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\bin\Debug\netcoreapp3.1\Problem 4. Copy Binary File.pdb
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\obj\Debug\netcoreapp3.1\Problem 4. Copy Binary File.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\obj\Debug\netcoreapp3.1\Problem 4. Copy Binary File.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\obj\Debug\netcoreapp3.1\Problem 4. Copy Binary File.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\obj\Debug\netcoreapp3.1\Problem 4. Copy Binary File.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 4. Copy Binary File\Problem 4. Copy Binary File\obj\Debug\netcoreapp3.1\Problem 4. Copy Binary File.pdb

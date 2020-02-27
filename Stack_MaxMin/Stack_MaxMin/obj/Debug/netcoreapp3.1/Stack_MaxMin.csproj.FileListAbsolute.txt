@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\bin\Debug\netcoreapp3.1\Stack_MaxMin.exe
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\bin\Debug\netcoreapp3.1\Stack_MaxMin.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\bin\Debug\netcoreapp3.1\Stack_MaxMin.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\bin\Debug\netcoreapp3.1\Stack_MaxMin.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\bin\Debug\netcoreapp3.1\Stack_MaxMin.dll
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\bin\Debug\netcoreapp3.1\Stack_MaxMin.pdb
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\obj\Debug\netcoreapp3.1\Stack_MaxMin.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\obj\Debug\netcoreapp3.1\Stack_MaxMin.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\obj\Debug\netcoreapp3.1\Stack_MaxMin.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\obj\Debug\netcoreapp3.1\Stack_MaxMin.dll
+C:\SoftUni\C#Advanced_SoftUni\Stack_MaxMin\Stack_MaxMin\obj\Debug\netcoreapp3.1\Stack_MaxMin.pdb

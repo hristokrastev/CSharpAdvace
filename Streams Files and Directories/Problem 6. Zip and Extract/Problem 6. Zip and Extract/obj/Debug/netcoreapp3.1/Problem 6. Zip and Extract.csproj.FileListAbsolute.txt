@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\bin\Debug\netcoreapp3.1\Problem 6. Zip and Extract.exe
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\bin\Debug\netcoreapp3.1\Problem 6. Zip and Extract.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\bin\Debug\netcoreapp3.1\Problem 6. Zip and Extract.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\bin\Debug\netcoreapp3.1\Problem 6. Zip and Extract.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\bin\Debug\netcoreapp3.1\Problem 6. Zip and Extract.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\bin\Debug\netcoreapp3.1\Problem 6. Zip and Extract.pdb
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\obj\Debug\netcoreapp3.1\Problem 6. Zip and Extract.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\obj\Debug\netcoreapp3.1\Problem 6. Zip and Extract.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\obj\Debug\netcoreapp3.1\Problem 6. Zip and Extract.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\obj\Debug\netcoreapp3.1\Problem 6. Zip and Extract.dll
+C:\SoftUni\C#Advanced_SoftUni\Streams Files and Directories\Problem 6. Zip and Extract\Problem 6. Zip and Extract\obj\Debug\netcoreapp3.1\Problem 6. Zip and Extract.pdb

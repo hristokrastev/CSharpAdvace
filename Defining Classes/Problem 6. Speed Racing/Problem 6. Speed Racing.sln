@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Speed Racing", "Problem 6. Speed Racing\Problem 6. Speed Racing.csproj", "{C03C4B06-6D15-4B8A-A955-EE37CB3FAE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C03C4B06-6D15-4B8A-A955-EE37CB3FAE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03C4B06-6D15-4B8A-A955-EE37CB3FAE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03C4B06-6D15-4B8A-A955-EE37CB3FAE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03C4B06-6D15-4B8A-A955-EE37CB3FAE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16135D2-D829-44FE-9D3B-0751D0BA028A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.exe
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.pdb
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.dll
+C:\SoftUni\C#Advanced_SoftUni\Matrices_Multidimensional_Arrays\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.pdb

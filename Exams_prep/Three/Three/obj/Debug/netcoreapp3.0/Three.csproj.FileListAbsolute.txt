@@ -1,0 +1,10 @@
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\bin\Debug\netcoreapp3.0\Three.exe
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\bin\Debug\netcoreapp3.0\Three.deps.json
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\bin\Debug\netcoreapp3.0\Three.runtimeconfig.json
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\bin\Debug\netcoreapp3.0\Three.runtimeconfig.dev.json
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\bin\Debug\netcoreapp3.0\Three.dll
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\bin\Debug\netcoreapp3.0\Three.pdb
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\obj\Debug\netcoreapp3.0\Three.AssemblyInfoInputs.cache
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\obj\Debug\netcoreapp3.0\Three.AssemblyInfo.cs
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\obj\Debug\netcoreapp3.0\Three.dll
+C:\SoftUni\C#Advanced_SoftUni\Exams_prep\Three\Three\obj\Debug\netcoreapp3.0\Three.pdb
